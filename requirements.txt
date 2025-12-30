@@ -3,3 +3,5 @@ customtkinter
 packaging
 pillow
 pyinstaller
+pandas
+numpy
