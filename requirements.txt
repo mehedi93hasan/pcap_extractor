@@ -1,2 +1,5 @@
 scapy
+customtkinter
+packaging
+pillow
 pyinstaller
